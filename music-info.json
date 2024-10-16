@@ -1,10 +1,10 @@
 {
-    "songs": [
-      {
-        "bg": "#c9bea28f",
-        "artist": "ALOOIS",
-        "songName": "Aloois",
-        "files": {
+  "songs": [
+    {
+      "bg": "#c9bea28f",
+      "artist": "sickick",
+      "songName": "talking to the moon (bruno mars remix)",
+      "files": {
           "song": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/MIDLATINO3.mp3",
           "cover": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/30652eb39320eed7f156b8a56cbc6fcf99cdee46/CiclosPortada.jpg"
         }
