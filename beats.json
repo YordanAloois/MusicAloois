@@ -1,12 +1,12 @@
 [
     {
-        "title": "Midilatino Beat1",
-        "artist": "Aloois",
+        "title": "Reggaeton Beat 1",
+        "artist": "Artista 1",
         "bpm": 90,
         "key": "A minor",
         "genre": "reggaeton",
-        "coverUrl": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/30652eb39320eed7f156b8a56cbc6fcf99cdee46/CiclosPortada.jpg",
-        "trackUrl": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/MIDLATINO3.mp3"
+        "audio": "url/del/audio.mp3",
+        "cover": "url/de/la/portada.jpg"
     },
     {
         "title": "Reggaeton Beat 2",
