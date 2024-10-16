@@ -1,0 +1,542 @@
+[
+    {
+        "title": "Midilatino Beat1",
+        "artist": "Aloois",
+        "bpm": 90,
+        "key": "A minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/30652eb39320eed7f156b8a56cbc6fcf99cdee46/CiclosPortada.jpg",
+        "trackUrl": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/MIDLATINO3.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 2",
+        "artist": "Artista 2",
+        "bpm": 95,
+        "key": "E minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton2.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton2.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 3",
+        "artist": "Artista 3",
+        "bpm": 92,
+        "key": "G minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton3.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton3.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 4",
+        "artist": "Artista 4",
+        "bpm": 100,
+        "key": "C# minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton4.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton4.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 5",
+        "artist": "Artista 5",
+        "bpm": 85,
+        "key": "F minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton5.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton5.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 6",
+        "artist": "Artista 6",
+        "bpm": 98,
+        "key": "D# major",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton6.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton6.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 7",
+        "artist": "Artista 7",
+        "bpm": 91,
+        "key": "E major",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton7.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton7.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 8",
+        "artist": "Artista 8",
+        "bpm": 99,
+        "key": "C minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton8.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton8.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 9",
+        "artist": "Artista 9",
+        "bpm": 88,
+        "key": "A major",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton9.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton9.mp3"
+    },
+    {
+        "title": "Reggaeton Beat 10",
+        "artist": "Artista 10",
+        "bpm": 97,
+        "key": "B minor",
+        "genre": "reggaeton",
+        "coverUrl": "https://example.com/covers/reggaeton10.jpg",
+        "trackUrl": "https://example.com/tracks/reggaeton10.mp3"
+    },
+    {
+        "title": "Trap Beat 1",
+        "artist": "Artista 1",
+        "bpm": 140,
+        "key": "F# minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap1.jpg",
+        "trackUrl": "https://example.com/tracks/trap1.mp3"
+    },
+    {
+        "title": "Trap Beat 2",
+        "artist": "Artista 2",
+        "bpm": 150,
+        "key": "D# minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap2.jpg",
+        "trackUrl": "https://example.com/tracks/trap2.mp3"
+    },
+    {
+        "title": "Trap Beat 3",
+        "artist": "Artista 3",
+        "bpm": 145,
+        "key": "G minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap3.jpg",
+        "trackUrl": "https://example.com/tracks/trap3.mp3"
+    },
+    {
+        "title": "Trap Beat 4",
+        "artist": "Artista 4",
+        "bpm": 155,
+        "key": "B minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap4.jpg",
+        "trackUrl": "https://example.com/tracks/trap4.mp3"
+    },
+    {
+        "title": "Trap Beat 5",
+        "artist": "Artista 5",
+        "bpm": 135,
+        "key": "C# minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap5.jpg",
+        "trackUrl": "https://example.com/tracks/trap5.mp3"
+    },
+    {
+        "title": "Trap Beat 6",
+        "artist": "Artista 6",
+        "bpm": 160,
+        "key": "A# minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap6.jpg",
+        "trackUrl": "https://example.com/tracks/trap6.mp3"
+    },
+    {
+        "title": "Trap Beat 7",
+        "artist": "Artista 7",
+        "bpm": 142,
+        "key": "D minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap7.jpg",
+        "trackUrl": "https://example.com/tracks/trap7.mp3"
+    },
+    {
+        "title": "Trap Beat 8",
+        "artist": "Artista 8",
+        "bpm": 138,
+        "key": "F minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap8.jpg",
+        "trackUrl": "https://example.com/tracks/trap8.mp3"
+    },
+    {
+        "title": "Trap Beat 9",
+        "artist": "Artista 9",
+        "bpm": 148,
+        "key": "E minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap9.jpg",
+        "trackUrl": "https://example.com/tracks/trap9.mp3"
+    },
+    {
+        "title": "Trap Beat 10",
+        "artist": "Artista 10",
+        "bpm": 130,
+        "key": "G# minor",
+        "genre": "trap",
+        "coverUrl": "https://example.com/covers/trap10.jpg",
+        "trackUrl": "https://example.com/tracks/trap10.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 1",
+        "artist": "Artista 1",
+        "bpm": 80,
+        "key": "C minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop1.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop1.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 2",
+        "artist": "Artista 2",
+        "bpm": 85,
+        "key": "B minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop2.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop2.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 3",
+        "artist": "Artista 3",
+        "bpm": 78,
+        "key": "G# minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop3.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop3.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 4",
+        "artist": "Artista 4",
+        "bpm": 88,
+        "key": "D minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop4.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop4.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 5",
+        "artist": "Artista 5",
+        "bpm": 82,
+        "key": "A# major",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop5.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop5.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 6",
+        "artist": "Artista 6",
+        "bpm": 90,
+        "key": "F minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop6.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop6.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 7",
+        "artist": "Artista 7",
+        "bpm": 92,
+        "key": "E major",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop7.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop7.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 8",
+        "artist": "Artista 8",
+        "bpm": 84,
+        "key": "C# minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop8.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop8.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 9",
+        "artist": "Artista 9",
+        "bpm": 81,
+        "key": "D# minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop9.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop9.mp3"
+    },
+    {
+        "title": "Hip Hop Beat 10",
+        "artist": "Artista 10",
+        "bpm": 89,
+        "key": "A minor",
+        "genre": "hip-hop",
+        "coverUrl": "https://example.com/covers/hiphop10.jpg",
+        "trackUrl": "https://example.com/tracks/hiphop10.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 1",
+        "artist": "Artista 3",
+        "bpm": 70,
+        "key": "C major",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi1.jpg",
+        "trackUrl": "https://example.com/tracks/lofi1.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 2",
+        "artist": "Artista 4",
+        "bpm": 72,
+        "key": "D major",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi2.jpg",
+        "trackUrl": "https://example.com/tracks/lofi2.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 3",
+        "artist": "Artista 5",
+        "bpm": 75,
+        "key": "F major",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi3.jpg",
+        "trackUrl": "https://example.com/tracks/lofi3.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 4",
+        "artist": "Artista 6",
+        "bpm": 65,
+        "key": "A major",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi4.jpg",
+        "trackUrl": "https://example.com/tracks/lofi4.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 5",
+        "artist": "Artista 7",
+        "bpm": 68,
+        "key": "E minor",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi5.jpg",
+        "trackUrl": "https://example.com/tracks/lofi5.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 6",
+        "artist": "Artista 8",
+        "bpm": 66,
+        "key": "C# minor",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi6.jpg",
+        "trackUrl": "https://example.com/tracks/lofi6.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 7",
+        "artist": "Artista 9",
+        "bpm": 73,
+        "key": "B major",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi7.jpg",
+        "trackUrl": "https://example.com/tracks/lofi7.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 8",
+        "artist": "Artista 10",
+        "bpm": 74,
+        "key": "F# minor",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi8.jpg",
+        "trackUrl": "https://example.com/tracks/lofi8.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 9",
+        "artist": "Artista 11",
+        "bpm": 71,
+        "key": "G minor",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi9.jpg",
+        "trackUrl": "https://example.com/tracks/lofi9.mp3"
+    },
+    {
+        "title": "Lo-fi Beat 10",
+        "artist": "Artista 12",
+        "bpm": 69,
+        "key": "A minor",
+        "genre": "lo-fi",
+        "coverUrl": "https://example.com/covers/lofi10.jpg",
+        "trackUrl": "https://example.com/tracks/lofi10.mp3"
+    },
+    {
+        "title": "Pop Beat 1",
+        "artist": "Artista 4",
+        "bpm": 120,
+        "key": "G major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop1.jpg",
+        "trackUrl": "https://example.com/tracks/pop1.mp3"
+    },
+    {
+        "title": "Pop Beat 2",
+        "artist": "Artista 5",
+        "bpm": 125,
+        "key": "A major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop2.jpg",
+        "trackUrl": "https://example.com/tracks/pop2.mp3"
+    },
+    {
+        "title": "Pop Beat 3",
+        "artist": "Artista 6",
+        "bpm": 130,
+        "key": "C# major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop3.jpg",
+        "trackUrl": "https://example.com/tracks/pop3.mp3"
+    },
+    {
+        "title": "Pop Beat 4",
+        "artist": "Artista 7",
+        "bpm": 135,
+        "key": "D major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop4.jpg",
+        "trackUrl": "https://example.com/tracks/pop4.mp3"
+    },
+    {
+        "title": "Pop Beat 5",
+        "artist": "Artista 8",
+        "bpm": 128,
+        "key": "F major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop5.jpg",
+        "trackUrl": "https://example.com/tracks/pop5.mp3"
+    },
+    {
+        "title": "Pop Beat 6",
+        "artist": "Artista 9",
+        "bpm": 132,
+        "key": "B minor",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop6.jpg",
+        "trackUrl": "https://example.com/tracks/pop6.mp3"
+    },
+    {
+        "title": "Pop Beat 7",
+        "artist": "Artista 10",
+        "bpm": 125,
+        "key": "G# minor",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop7.jpg",
+        "trackUrl": "https://example.com/tracks/pop7.mp3"
+    },
+    {
+        "title": "Pop Beat 8",
+        "artist": "Artista 11",
+        "bpm": 134,
+        "key": "C major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop8.jpg",
+        "trackUrl": "https://example.com/tracks/pop8.mp3"
+    },
+    {
+        "title": "Pop Beat 9",
+        "artist": "Artista 12",
+        "bpm": 121,
+        "key": "A minor",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop9.jpg",
+        "trackUrl": "https://example.com/tracks/pop9.mp3"
+    },
+    {
+        "title": "Pop Beat 10",
+        "artist": "Artista 13",
+        "bpm": 123,
+        "key": "D# major",
+        "genre": "pop",
+        "coverUrl": "https://example.com/covers/pop10.jpg",
+        "trackUrl": "https://example.com/tracks/pop10.mp3"
+    },
+    {
+        "title": "Electro Beat 1",
+        "artist": "Artista 5",
+        "bpm": 128,
+        "key": "A# minor",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro1.jpg",
+        "trackUrl": "https://example.com/tracks/electro1.mp3"
+    },
+    {
+        "title": "Electro Beat 2",
+        "artist": "Artista 6",
+        "bpm": 130,
+        "key": "C minor",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro2.jpg",
+        "trackUrl": "https://example.com/tracks/electro2.mp3"
+    },
+    {
+        "title": "Electro Beat 3",
+        "artist": "Artista 7",
+        "bpm": 135,
+        "key": "D# major",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro3.jpg",
+        "trackUrl": "https://example.com/tracks/electro3.mp3"
+    },
+    {
+        "title": "Electro Beat 4",
+        "artist": "Artista 8",
+        "bpm": 136,
+        "key": "E minor",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro4.jpg",
+        "trackUrl": "https://example.com/tracks/electro4.mp3"
+    },
+    {
+        "title": "Electro Beat 5",
+        "artist": "Artista 9",
+        "bpm": 140,
+        "key": "F# major",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro5.jpg",
+        "trackUrl": "https://example.com/tracks/electro5.mp3"
+    },
+    {
+        "title": "Electro Beat 6",
+        "artist": "Artista 10",
+        "bpm": 145,
+        "key": "G# minor",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro6.jpg",
+        "trackUrl": "https://example.com/tracks/electro6.mp3"
+    },
+    {
+        "title": "Electro Beat 7",
+        "artist": "Artista 11",
+        "bpm": 150,
+        "key": "A minor",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro7.jpg",
+        "trackUrl": "https://example.com/tracks/electro7.mp3"
+    },
+    {
+        "title": "Electro Beat 8",
+        "artist": "Artista 12",
+        "bpm": 155,
+        "key": "B major",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro8.jpg",
+        "trackUrl": "https://example.com/tracks/electro8.mp3"
+    },
+    {
+        "title": "Electro Beat 9",
+        "artist": "Artista 13",
+        "bpm": 160,
+        "key": "C# minor",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro9.jpg",
+        "trackUrl": "https://example.com/tracks/electro9.mp3"
+    },
+    {
+        "title": "Electro Beat 10",
+        "artist": "Artista 14",
+        "bpm": 165,
+        "key": "D# major",
+        "genre": "electro",
+        "coverUrl": "https://example.com/covers/electro10.jpg",
+        "trackUrl": "https://example.com/tracks/electro10.mp3"
+    }
+]
