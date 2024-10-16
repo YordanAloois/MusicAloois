@@ -5,8 +5,8 @@
         "bpm": 90,
         "key": "A minor",
         "genre": "reggaeton",
-        "audio": "url/del/audio.mp3",
-        "cover": "url/de/la/portada.jpg"
+        "audio": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/MIDLATINO3.mp3",
+        "cover": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/CiclosPortada.jpg"
     },
     {
         "title": "Reggaeton Beat 2",
