@@ -1,9 +1,9 @@
 {
     "songs": [
       {
-        "bg": "#c9bea28f",
+        "bg": "#252D36",
         "artist": "ALOOIS",
-        "songName": "Midilatino3",
+        "songName": "Aloois",
         "files": {
           "song": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/MIDLATINO3.mp3",
           "cover": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/30652eb39320eed7f156b8a56cbc6fcf99cdee46/CiclosPortada.jpg"
@@ -11,7 +11,7 @@
       },
       {
         "bg": "#0896eba1",
-        "artist": "ALOOIS",
+        "artist": "Aloois",
         "songName": "EMOTON1",
         "files": {
           "song": "https://raw.githubusercontent.com/YordanAloois/MusicAloois/main/EMOTON1.mp3",
